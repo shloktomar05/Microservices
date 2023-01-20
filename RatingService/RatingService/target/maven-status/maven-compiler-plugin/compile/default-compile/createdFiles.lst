@@ -1,0 +1,6 @@
+com\springboot\rating\RatingService\entities\Rating.class
+com\springboot\rating\RatingService\RatingServiceApplication.class
+com\springboot\rating\RatingService\controller\RatingController.class
+com\springboot\rating\RatingService\repository\RatingRepository.class
+com\springboot\rating\RatingService\services\Impl\RatingServiceImpl.class
+com\springboot\rating\RatingService\services\RatingService.class
