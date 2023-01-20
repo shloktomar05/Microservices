@@ -1,0 +1,13 @@
+com\springboot\UserService\repositories\UserRepository.class
+com\springboot\UserService\UserServiceApplication.class
+com\springboot\UserService\exceptions\GlobalExceptionHandler.class
+com\springboot\UserService\exceptions\ResourceNotFoundException.class
+com\springboot\UserService\payloads\ApiResponse$ApiResponseBuilder.class
+com\springboot\UserService\entities\Hotel.class
+com\springboot\UserService\payloads\ApiResponse.class
+com\springboot\UserService\services\impl\UserServiceImpl.class
+com\springboot\UserService\entities\User.class
+com\springboot\UserService\services\UserService.class
+com\springboot\UserService\controller\UserController.class
+com\springboot\UserService\entities\Rating.class
+com\springboot\UserService\config\MyConfig.class
